@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<string>
+<MAIN_PLAY >play</MAIN_PLAY>
+<MAIN_ABOUT>about</MAIN_ABOUT>
+<MAIN_SETTING >setting</MAIN_SETTING>
+<MAIN_RANK >rank</MAIN_RANK>
+<RANK_LIST>Ranking List</RANK_LIST>
+<GAME_OVER>GAME OVER</GAME_OVER>
+</string>
